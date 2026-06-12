@@ -1,0 +1,19 @@
+# Generated outputs
+output/
+outputs/
+saved_outputs/
+results/
+runs/
+logs/
+
+**/output/
+**/outputs/
+**/saved_outputs/
+**/results/
+**/runs/
+**/logs/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
